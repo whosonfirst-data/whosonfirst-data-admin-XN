@@ -23,6 +23,27 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":8.0,
     "mz:tier_locality":1,
+    "name:fra_x_preferred":[
+        "Null Island"
+    ],
+    "name:ind_x_preferred":[
+        "Null Island"
+    ],
+    "name:ita_x_preferred":[
+        "Null island"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30eb\u5cf6"
+    ],
+    "name:msa_x_preferred":[
+        "Pulau Nol"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432 \u041d\u043e\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Null Island"
+    ],
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0442\u0440\u0456\u0432 \u041d\u0443\u043b\u044c"
     ],
@@ -43,7 +64,7 @@
         }
     ],
     "wof:id":874397665,
-    "wof:lastmodified":1564096897,
+    "wof:lastmodified":1564100869,
     "wof:name":"Null Island",
     "wof:parent_id":-2,
     "wof:placetype":"neighbourhood",
