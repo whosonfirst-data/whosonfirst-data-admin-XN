@@ -12,8 +12,11 @@
     "iso:country":"XN",
     "lbl:latitude":0.0,
     "lbl:longitude":0.0,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":0.0,
     "name:eng_x_preferred":[
         "Null Island"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1,
-    "wof:lastmodified":1563589811,
+    "wof:lastmodified":1566653118,
     "wof:name":"Null Island",
     "wof:parent_id":0,
     "wof:placetype":"country",
