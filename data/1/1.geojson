@@ -66,9 +66,7 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:country_code":[
-            999
-        ],
+        "digitalenvoy:country_code":999,
         "wd:id":"Q16896007",
         "wk:page":"Null_Island"
     },
@@ -80,7 +78,7 @@
         }
     ],
     "wof:id":1,
-    "wof:lastmodified":1583529065,
+    "wof:lastmodified":1583797269,
     "wof:name":"Null Island",
     "wof:parent_id":0,
     "wof:placetype":"country",
