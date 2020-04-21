@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Null Island"
     ],
+    "name:epo_x_preferred":[
+        "Nulinsulo"
+    ],
     "name:fra_x_preferred":[
         "Null Island"
     ],
@@ -62,6 +65,12 @@
     "name:vie_x_preferred":[
         "\u0111\u1ea3o R\u1ed7ng"
     ],
+    "name:zho_tw_x_preferred":[
+        "\u7a7a\u865b\u5cf6"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a7a\u865b\u5cf6"
+    ],
     "src:geom":"nullisland",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":1,
-    "wof:lastmodified":1583797269,
+    "wof:lastmodified":1587428769,
     "wof:name":"Null Island",
     "wof:parent_id":0,
     "wof:placetype":"country",
