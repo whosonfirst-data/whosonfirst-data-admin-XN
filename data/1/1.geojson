@@ -17,8 +17,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":0.0,
+    "name:ara_x_preferred":[
+        "\u0637\u0627\u0641\u064a\u0629 \u0627\u0644\u0635\u0641\u0631"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09b2 \u0986\u0987\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
+    ],
+    "name:bre_x_preferred":[
+        "Enez-Null"
+    ],
+    "name:ces_x_preferred":[
+        "Null island"
+    ],
+    "name:deu_x_preferred":[
+        "Null Island"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03ae\u03c3\u03bf\u03c2 \u039d\u03bf\u03c5\u03bb"
@@ -28,6 +40,12 @@
     ],
     "name:epo_x_preferred":[
         "Nulinsulo"
+    ],
+    "name:epo_x_variant":[
+        "Insulo Null"
+    ],
+    "name:eus_x_preferred":[
+        "Null Island"
     ],
     "name:fas_x_preferred":[
         "\u062c\u0632\u06cc\u0631\u0647 \u0646\u0648\u0644"
@@ -49,6 +67,9 @@
     ],
     "name:ita_x_preferred":[
         "Null island"
+    ],
+    "name:ita_x_variant":[
+        "Null Island"
     ],
     "name:jbo_x_preferred":[
         ".nyldaplu."
@@ -80,6 +101,9 @@
     "name:rus_x_preferred":[
         "\u043e\u0441\u0442\u0440\u043e\u0432 \u041d\u043e\u043b\u044c"
     ],
+    "name:sco_x_preferred":[
+        "Nu Issland"
+    ],
     "name:spa_x_preferred":[
         "Null Island"
     ],
@@ -94,6 +118,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0646\u0644 \u062c\u0632\u06cc\u0631\u06c1"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0646\u06af\u0631 \u0646\u0645\u0627 \u062c\u0632\u06cc\u0631\u06c1"
     ],
     "name:vie_x_preferred":[
         "\u0111\u1ea3o R\u1ed7ng"
@@ -120,7 +147,7 @@
         }
     ],
     "wof:id":1,
-    "wof:lastmodified":1636494849,
+    "wof:lastmodified":1690921817,
     "wof:name":"Null Island",
     "wof:parent_id":0,
     "wof:placetype":"country",
