@@ -10,6 +10,9 @@
     "geom:latitude":0.000003,
     "geom:longitude":0.00001,
     "iso:country":"XN",
+    "label:eng_x_preferred_placetype":[
+        "statistical gore"
+    ],
     "lbl:latitude":0.0,
     "lbl:longitude":0.0,
     "lbl:max_zoom":8.0,
@@ -140,14 +143,14 @@
         "wk:page":"Null_Island"
     },
     "wof:country":"XN",
-    "wof:geomhash":"e9049476e168a570accab5e984de9c6a",
+    "wof:geomhash":"e019a15d3b3d92817c55fc51e86ba43b",
     "wof:hierarchy":[
         {
             "country_id":1
         }
     ],
     "wof:id":1,
-    "wof:lastmodified":1690921817,
+    "wof:lastmodified":1694492036,
     "wof:name":"Null Island",
     "wof:parent_id":0,
     "wof:placetype":"country",
