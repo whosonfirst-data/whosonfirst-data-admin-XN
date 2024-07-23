@@ -1,8 +1,1 @@
-{
-"type": "FeatureCollection",
-"name": "null-island-natural-earth-v4",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
 { "type": "Feature", "properties": { "featurecla": "Null island", "scalerank": 100, "min_zoom": 100.0, "id": "NIL", "name": "Null Island" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -0.004789435546374, 0.004816903819262 ], [ 0.004328009720073, 0.004816903819262 ], [ 0.004328009720073, -0.004389928165484 ], [ -0.004789435546374, -0.004389928165484 ], [ -0.004789435546374, 0.004816903819262 ] ] ] ] } }
-]
-}
