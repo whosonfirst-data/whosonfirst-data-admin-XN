@@ -2,12 +2,10 @@
   "id": 1,
   "type": "Feature",
   "properties": {
-    "featurecla": "Null island",
-    "id": "NIL",
-    "min_zoom": 100,
-    "name": "Null Island",
-    "scalerank": 100
+    "src:alt_label": "naturalearth-v1",
+    "src:geom": "naturalearth",
+    "wof:id": 1,
+    "wof:repo": "whosonfirst-data-admin-xn"
   },
-  "bbox": null,
   "geometry": {"coordinates":[[[[-0.004789435546374,0.004816903819262],[0.004328009720073,0.004816903819262],[0.004328009720073,-0.004389928165484],[-0.004789435546374,-0.004389928165484],[-0.004789435546374,0.004816903819262]]]],"type":"MultiPolygon"}
 }
