@@ -136,7 +136,6 @@
     ],
     "src:geom": "nullisland",
     "src:geom_alt": [
-      "nixta",
       "naturalearth-v1",
       "naturalearth-v4"
     ],
@@ -156,7 +155,7 @@
       }
     ],
     "wof:id": 1,
-    "wof:lastmodified": 1721775281,
+    "wof:lastmodified": 1721840611,
     "wof:name": "Null Island",
     "wof:parent_id": 0,
     "wof:placetype": "country",
